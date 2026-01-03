@@ -5,8 +5,8 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Front
 Venho construindo interfaces web claras, responsivas e bem estruturadas, sempre com atenção à lógica, organização de código e experiência do usuário.
 
 
-
-## 🚀 O que estou fazendo agora
+<details>
+<summary>🚀 O que estou fazendo agora</summary>
 
 - Estudando **Front-end** com foco em fundamentos sólidos  
 - Desenvolvendo projetos práticos para aplicar conceitos de:
@@ -14,10 +14,11 @@ Venho construindo interfaces web claras, responsivas e bem estruturadas, sempre 
   - CSS moderno (Flexbox, Grid, responsividade)
   - JavaScript (fundamentos e manipulação do DOM)
 - Documentando minha evolução e decisões técnicas nos repositórios
+</details>
 
 
-
-## 📌 Projetos em destaque
+<details>
+  <summary>📌 Projetos em destaque</summary>
 
 ### OrçaFascio — Landing Page (Estudo de Caso)
 🔗 https://github.com/leeo-pereira/orcafascio-remake
@@ -36,10 +37,11 @@ Repositório contínuo de estudos práticos em Front-end, com exercícios e pequ
 - lógica de programação  
 - estrutura de código  
 - boas práticas em HTML, CSS e JavaScript  
+</details>
 
 
-
-## 🧠 Background profissional
+<details>
+  <summary>🧠 Background profissional</summary>
 
 Antes da transição para desenvolvimento, atuei por mais de 10 anos com **conteúdo, marketing digital e produtos SaaS**, trabalhando com empresas no Brasil e no exterior.
 
@@ -47,7 +49,7 @@ Essa experiência influencia minha forma de pensar código, sempre buscando:
 - clareza
 - organização
 - alinhamento entre tecnologia e objetivos de negócio
-
+</details>
 
 
 ## 📫 Onde me encontrar
