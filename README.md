@@ -54,6 +54,5 @@ Essa experiência influencia minha forma de pensar código, sempre buscando:
 
 ## 📫 Onde me encontrar
 
+- Site: https://leeopereira.dev/
 - LinkedIn: https://www.linkedin.com/in/leeopereira  
-- GitHub: https://github.com/leeo-pereira  
-
